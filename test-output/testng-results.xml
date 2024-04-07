@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-13T18:20:57 HKT" name="Suite" finished-at="2024-03-13T18:21:28 HKT" duration-ms="31293">
+    <groups>
+    </groups>
+    <test started-at="2024-03-13T18:20:57 HKT" name="Test" finished-at="2024-03-13T18:21:28 HKT" duration-ms="31293">
+      <class name="org.tet.SampleTestng">
+        <test-method signature="tc11()[pri:0, instance:org.tet.SampleTestng@1a18644]" started-at="2024-03-13T18:20:57 HKT" name="tc11" finished-at="2024-03-13T18:21:10 HKT" duration-ms="12549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11 -->
+        <test-method signature="tc12()[pri:0, instance:org.tet.SampleTestng@1a18644]" started-at="2024-03-13T18:21:10 HKT" name="tc12" finished-at="2024-03-13T18:21:20 HKT" duration-ms="9920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc12 -->
+      </class> <!-- org.tet.SampleTestng -->
+      <class name="org.tet.B">
+        <test-method signature="tc21()[pri:0, instance:org.tet.B@5d0a1059]" started-at="2024-03-13T18:20:57 HKT" name="tc21" finished-at="2024-03-13T18:21:13 HKT" duration-ms="15583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc21 -->
+        <test-method signature="tc22()[pri:0, instance:org.tet.B@5d0a1059]" started-at="2024-03-13T18:21:13 HKT" name="tc22" finished-at="2024-03-13T18:21:20 HKT" duration-ms="7011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc22 -->
+        <test-method signature="tc23()[pri:0, instance:org.tet.B@5d0a1059]" started-at="2024-03-13T18:21:20 HKT" name="tc23" finished-at="2024-03-13T18:21:28 HKT" duration-ms="8659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc23 -->
+      </class> <!-- org.tet.B -->
+      <class name="org.tet.A">
+        <test-method signature="tc1()[pri:0, instance:org.tet.A@43dac38f]" started-at="2024-03-13T18:20:57 HKT" name="tc1" finished-at="2024-03-13T18:21:12 HKT" duration-ms="14897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:0, instance:org.tet.A@43dac38f]" started-at="2024-03-13T18:21:12 HKT" name="tc2" finished-at="2024-03-13T18:21:17 HKT" duration-ms="4618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3()[pri:0, instance:org.tet.A@43dac38f]" started-at="2024-03-13T18:21:17 HKT" name="tc3" finished-at="2024-03-13T18:21:22 HKT" duration-ms="5612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.tet.A -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
